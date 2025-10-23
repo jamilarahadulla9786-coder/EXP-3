@@ -39,10 +39,14 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+Direct connection: CIRCUIT DIAGRAM: ![Whatbee 3 1](https://github.com/user-attachments/assets/6f6cf07b-47d6-4946-b65f-c723cfc6f8b1)
+
+Tabulation:1![beee3 3](https://github.com/user-attachments/assets/4abc95d7-194c-4d50-af26-24ab2c8ca550)
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: CIRCUIT DIAGRAM:![beee3 2](https://github.com/user-attachments/assets/e6192021-652b-47a3-b79a-26016c477b58)
+![bee3 3](https://github.com/user-attachments/assets/22aa9e0b-a9fd-4275-b6ec-459ca12d8317)
+
 
 Tabulation:2
 
